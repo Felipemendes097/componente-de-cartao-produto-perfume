@@ -1,0 +1,8 @@
+:root {
+    --cor-primaria-escuro: hsl(158, 36%, 37%);
+    --cor-primaria-clara: hsl(30, 38%, 92%);
+
+    --cor-neutral-escuro: hsl(212, 21%, 14%);
+    --cor-neutral-medio: hsl(228, 12%, 48%);
+    --cor-neutral-clara:  hsl(0, 0%, 100%);
+}

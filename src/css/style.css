@@ -1,0 +1,100 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Fraunces', serif;
+    background-color: var(--cor-primaria-clara);
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.card {
+    display: flex;
+    align-items: flex-start;
+    background-color: #fff;
+    max-width: 600px;
+}
+
+.img-card img {
+    max-height: 450px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+div.info {
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+}
+
+.info .perfume {
+    color: var(--cor-neutral-medio);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    letter-spacing: 5px;
+    margin: 35px 31px 20px 31px;
+}
+
+.info .titulo {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 32px;
+    margin: -15px 20px;
+    padding: 15px;
+    line-height: 95%;
+}
+
+.info .descricao {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--cor-neutral-medio);
+    font-size: 14px;
+    margin: 30px;
+    line-height: 160%;
+}
+
+.valores {
+    display: flex;
+    align-items: center;
+}
+
+.valores .oferta {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-left: 8px;
+    color: var(--cor-primaria-escuro);
+    margin-left: 35px;
+}
+
+.valores .valor-antigo {
+    font-family: 'Montserrat', sans-serif;
+    color: var(--cor-neutral-medio);
+    text-decoration: line-through;
+    font-size: 14px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.carrinho {
+    background-color: var(--cor-primaria-escuro);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    height: 45px;
+    width: 240px;
+    margin-left: 35px;
+    border-radius: 10px;
+}
+
+.carrinho .adicionar-carrinho {
+    font-size: 14px;
+    color: var(--cor-neutral-clara);
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
