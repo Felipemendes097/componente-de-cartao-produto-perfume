@@ -11,7 +11,9 @@
 
 ## Dificuldades:
  Geral: Já na questão do tamanho também tive dificuldades nos tamanhos das imagens e dos espaçamentos.
+ 
 Flex:Nessa etapa tive algumas dificuldades pois ainda não me aperfeiçoei ainda na parte de flexbox.
+
 Responsivo:Já nessa etapa tive dificuldades em deixar as imagens o mais proximo possivel do desafio proposto.
  
  
