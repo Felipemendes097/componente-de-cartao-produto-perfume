@@ -10,9 +10,12 @@
 
 
 ## Dificuldades:
- Geral: Nesse desafio básico tive dificuldades nos tamanhos, e o posicionamento de cada parte.
- Medições: Não possuo tanto experiência com os tamanhos em EM então testei pra ver como fica, dái tive um pouco de dificuldade nessa parte.
-
+ Geral: Já na questão do tamanho também tive dificuldades nos tamanhos das imagens e dos espaçamentos.
+Flex:Nessa etapa tive algumas dificuldades pois ainda não me aperfeiçoei ainda na parte de flexbox.
+Responsivo:Já nessa etapa tive dificuldades em deixar as imagens o mais proximo possivel do desafio proposto.
+ 
+ 
+ 
 ## Técnologias Utilizadas:
     HTML 5
     CSS 3
